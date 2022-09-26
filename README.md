@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotbicons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotb&show_icons=true&theme=radical)
